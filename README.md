@@ -7,4 +7,4 @@ There are three main pages to the webiste, Projects, Contact, and About.
 
 ## Contributors
 
-This project was created sololy by Alan Guilfoyle in 2015. Used the knowledge resources at www.TeamTreeHouse.com
+This project was created sololy by Alan Guilfoyle in 2015. Used the knowledge and resources gained from www.TeamTreeHouse.com
